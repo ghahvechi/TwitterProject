@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "userId": 56,
+    "text": "salmaalykom",
+    "createDate": "2023-05-05T07:56:32.6019098+03:30",
+    "isArchived": false,
+    "comments": null,
+    "like": null
+  },
+  {
+    "id": 2,
+    "userId": 56,
+    "text": "test",
+    "createDate": "2023-05-05T07:58:05.8978847+03:30",
+    "isArchived": false,
+    "comments": null,
+    "like": null
+  },
+  {
+    "id": 3,
+    "userId": 56,
+    "text": "test",
+    "createDate": "2023-05-05T07:59:13.302043+03:30",
+    "isArchived": false,
+    "comments": null,
+    "like": null
+  },
+  {
+    "id": 4,
+    "userId": 56,
+    "text": "man",
+    "createDate": "2023-05-05T08:00:07.0646169+03:30",
+    "isArchived": false,
+    "comments": null,
+    "like": null
+  }
+]
